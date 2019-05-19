@@ -3,4 +3,13 @@
     <string name="infoLabel">The most popular movies of</string>
     <string name="labelHint">2018</string>
     <string name="buttonText">Submit</string>
+    <string name="yearEditorError">Please enter a year number</string>
+    <string name="overviewLabel">Overview</string>
+    <string name="releaseDateValue">Release:</string>
+    <string name="movieDetailError">Null movie was send through...</string>
+    <string name="movieimage">movieImage</string>
+    <string name="textview">TextView</string>
+    <string name="backdropDescription">movie Backdrop</string>
+    <string name="moviePoster">Movie Poster</string>
+    <string name="star_image">star image</string>
 </resources>
